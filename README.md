@@ -11,7 +11,7 @@ The project goal is to predict whether a review is fake or not, i.e. a binary cl
 ## Proposed ml models
 1. Naive Bayes
 2. Logistic Regression
-3. SVM
+3. [SVM](https://github.com/izhou2015/DSGA1003_Proj/tree/master/cc_SVM)
 4. Decision tree / random forest / xgboost
 5. NN
 6. Novel Algorithm
