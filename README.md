@@ -1,4 +1,4 @@
-# DSGA1003_Proj: Fake Review Detection
+# DSGA1003_Proj: Imbalanced Yelp Fake Review Detection
 
 ## Dataset
 
